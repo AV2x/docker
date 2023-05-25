@@ -1,0 +1,6 @@
+
+/node_modules
+/.fleet
+/.idea
+/.vscode
+/.docker/mysql/data/mysql.sock
